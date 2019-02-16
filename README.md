@@ -26,4 +26,4 @@ MARWIN intends to reduce the manufacturing cost and development time of rovers b
 ![alt text](https://www.researchgate.net/profile/Nathalie_Mitton/publication/282195030/figure/fig5/AS:325787430473733@1454685184598/Rover-actions-Flowchart.png)
 
 
-# For more details please check the WIKI page https://github.com/joeskolengaden/marwin/wiki
+### For more details please check the WIKI page https://github.com/joeskolengaden/marwin/wiki
