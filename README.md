@@ -1,6 +1,9 @@
 # MARWIN
 An Open Source Rapid Deployable DIY MARS Rover
 
+## Primary Aim
+To develop an opensource space rover by utilizing all posiible opensoure materal and also make the rover flexible for deployment at multiple purposes including research, resuce, military and defence purposes.
+
 ## Abstract
 
 MARWIN is intended to be one of the first opensource DIY space rover projects which could be developed very easily. The rover is designed to be highly customizable with a modular design approach. MARWIN could open up the future for rapidly deployable rover solutions for exploration of other planets.
