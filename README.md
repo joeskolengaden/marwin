@@ -2,7 +2,7 @@
 An Open Source Rapid Deployable DIY MARS Rover
 
 ## Primary Aim
-To develop an opensource space rover by utilizing all posiible opensoure materal and also make the rover flexible for deployment at multiple purposes including research, resuce, military and defence purposes.
+To develop an opensource space rover by utilizing all posiible opensoure materals & resourses and also make the rover flexible  deployable for multiple purposes including research, resuce, military and defence purposes.
 
 ## Abstract
 
