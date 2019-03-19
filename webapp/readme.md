@@ -10,3 +10,18 @@ Install the package as instructed in this link:-
 # Web Application with Ajax
 
 Ajax web applications use JavaScript to interact with a server and update web pages without reloading them
+
+# update and display sensor values
+
+ESP32 Ajax web page  to display and update sensor data without refresh.
+Getting data from ESP32 without page refresh and update it in web page dynamically. such as ADC values or temperature readings.
+
+# AJAX is Based on Internet Standards
+
+AJAX is based on internet standards, and uses a combination of:
+
+  XMLHttpRequest object (to exchange data asynchronously with a server)
+  JavaScript/DOM (to display/interact with the information)
+  CSS (to style the data)
+  XML (often used as the format for transferring data)
+  
