@@ -20,8 +20,8 @@ Getting data from ESP32 without page refresh and update it in web page dynamical
 
 AJAX is based on internet standards, and uses a combination of:
 
-  XMLHttpRequest object (to exchange data asynchronously with a server)
-  JavaScript/DOM (to display/interact with the information)
-  CSS (to style the data)
+  XMLHttpRequest object (to exchange data asynchronously with a server), 
+  JavaScript/DOM (to display/interact with the information), 
+  CSS (to style the data), 
   XML (often used as the format for transferring data)
   
