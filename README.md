@@ -23,7 +23,7 @@ MARWIN intends to reduce the manufacturing cost and development time of rovers b
 
 # Rover Actions Flowchart:
 
-![alt text](https://www.researchgate.net/profile/Nathalie_Mitton/publication/282195030/figure/fig5/AS:325787430473733@1454685184598/Rover-actions-Flowchart.png)
+![alt text](https://drive.google.com/open?id=1_0RW10cbOIgSfm2nltWc9fMLrqLuceBh)
 
 
 ### For more details please check the WIKI page https://github.com/joeskolengaden/marwin/wiki
