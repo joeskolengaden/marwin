@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>DashBoard</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="An Open Source DIY Space Rover by motify.in" />
+    <meta name="author" content="motify.in" />
+  	<link href="https://fonts.googleapis.com/css?family=Raleway:100,300,400,700" rel="stylesheet">
+    
+    <!-- Animate.css -->
+    <link rel="stylesheet" href="static/css/animate.css">
+    <!-- Icomoon Icon Fonts-->
+    <link rel="stylesheet" href="static/css/icomoon.css">
+    <!-- Themify Icons-->
+    <link rel="stylesheet" href="static/css/themify-icons.css">
+    <!-- Bootstrap  -->
+    <link rel="stylesheet" href="static/css/bootstrap.css">
+  
+    <!-- Magnific Popup -->
+    <link rel="stylesheet" href="static/css/magnific-popup.css">
+  
+    <!-- Owl Carousel  -->
+    <link rel="stylesheet" href="static/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="static/css/owl.theme.default.min.css">
+  
+    <!-- Theme style  -->
+    <link rel="stylesheet" href="static/css/style.css">
+  
+    <!-- Modernizr JS -->
+    <script src="static/js/modernizr-2.6.2.min.js"></script>
+    <!-- FOR IE9 below -->
+    <!--[if lt IE 9]>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->
+    
+<meta http-equiv="refresh" content="5">
+<style>
+
+body
+
+ {
+	text-align: center; font-family: \"Arial\", Arial;
+ 
+}
+
+table
+ {
+	border-collapse: collapse; margin-left:auto;
+  margin-right:auto;
+	width:70%;
+
+	border-spacing: 2px;
+	background-color: white;
+	border: 5px solid skyblue;
+ }
+th
+ {
+	padding: 40px;
+	background-color: skyblue;
+	color: white;
+ }
+tr 
+ {
+	border: 5px solid skyblue;
+	padding: 2px;
+ }
+tr:hover
+ {
+	background-color:yellow;
+ }
+td
+ {
+	border:3px;
+	padding: 1px;
+ }
+.sensor
+ {
+	color:white;
+	font-weight: bold;
+	background-color: #bcbcbc;
+	padding: 10px;
+ }
+
+
+</style>
+</head>
+
+<body>
+      
+    <div class="gtco-loader"></div>
+    
+    <div id="page">
+  
+      <nav class="gtco-nav" role="navigation">
+        <div class="gtco-container">
+          
+          <div class="row">
+            <div class="col-sm-2 col-xs-12">
+              <div id="gtco-logo"><a href="index.html"><img src="static/images/marwinsticker1.png" alt="An Open Source DIY Space Rover by motify.in"></a></div>
+            </div>
+            <div class="col-xs-10 text-right menu-1">
+              <ul>
+                <li><a href="about.html">About</a></li>
+              </ul>
+            </div>
+          </div>
+          
+        </div>
+      </nav>
+  
+      <header id="gtco-header" class="gtco-cover" role="banner">
+        <div class="gtco-container">
+          <div class="row">
+            <div class="col-md-12 col-md-offset-0 text-left">
+              <div class="display-t">
+                <div class="display-tc">
+                  <div class="row">
+                    <div class="col-md-5 text-center header-img animate-box">
+                      <img src="static/images/cube.png" alt="An Open Source DIY Space Rover">
+                    </div>
+                    <div class="col-md-7 copy animate-box">
+                      <h1>Sensor Values</h1>
+                      <p>An Open Source DIY Space Rover</p>
+                      <p><a href="http://192.168.43.236:1880/ui" target="_blank" class="btn btn-special popup">Go to UI</a></p>
+                    </div>
+                    
+                      
+  <table>
+      <tr>
+        <th>SENSORS</th>
+        <th>CONTENT</th>
+        <th>VALUE</th>
+      </tr>
+      <tr>
+        <td>MO2</td>
+        <td> Methane, Butane, LPG, smoke</td>
+        <td>{{mq2}}ppm</td>
+      </tr>
+      <tr>
+        <td>MQ3</td>
+        <td>Alcohol, Ethanol, Smoke</td>
+        <td>{{mq3}}mg/l</td>
+      </tr>
+      <tr>
+        <td>MQ4</td>
+        <td>Methane, CNG Gas</td>
+        <td>{{mq4}}ppm</td>
+      </tr>
+      <tr>
+        <td>MQ5</td>
+        <td>Natural gas, LPG</td>
+        <td>{{mq5}}ppm</td>
+      </tr>
+      <tr>
+        <td>MQ6</td>
+        <td>LPG, butane gas</td>
+        <td>{{mq6}}ppm</td>
+      </tr>
+      <tr>
+        <td>MQ7</td>
+        <td>Carbon Monoxide</td>
+        <td>{{mq7}}ppm</td>
+      </tr>
+      <tr>
+        <td>MQ8</td>
+        <td>Hydrogen Gas</td>
+        <td>{{mq8}}ppm</td>
+      </tr>
+      <tr>
+        <td>MQ9</td>
+        <td>Carbon Monoxide, flammable gasses</td>
+        <td>{{mq9}}ppm</td>
+      </tr>
+  
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+        </div>
+        
+      </header>
+      
+      <!-- END #gtco-header -->
+
+	<!-- jQuery -->
+	<script src="static/js/jquery.min.js"></script>
+	<!-- jQuery Easing -->
+	<script src="static/js/jquery.easing.1.3.js"></script>
+	<!-- Bootstrap -->
+	<script src="static/js/bootstrap.min.js"></script>
+	<!-- Waypoints -->
+	<script src="static/js/jquery.waypoints.min.js"></script>
+	<!-- Carousel -->
+	<script src="static/js/owl.carousel.min.js"></script>
+	<!-- Magnific Popup -->
+	<script src="static/js/jquery.magnific-popup.min.js"></script>
+	<script src="static/js/magnific-popup-options.js"></script>
+	<!-- Main -->
+	<script src="static/js/main.js"></script>
+
+</body>
+</html>
