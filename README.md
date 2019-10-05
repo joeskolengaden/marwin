@@ -26,6 +26,6 @@ MARWIN intends to reduce the manufacturing cost and development time of rovers b
 ![alt text](https://3.bp.blogspot.com/-FkkTOCgCs04/XJJYSkBHYPI/AAAAAAAAKjU/Odgqo9q8YRIwtQb2-sWwiRYJXBLu_NTcwCLcBGAs/s640/marwinOD.png)
 
 
-### For more details please check the WIKI page https://github.com/joeskolengaden/marwin/wiki
+## For more details please check the WIKI page https://github.com/joeskolengaden/marwin/wiki
 
-### Each folder in this MARWIN contains different areas of IoT projects, So this project can be splitted to different small scale projects, Enjoy MARWIN by Motify.in
+## Each folder in this MARWIN contains different areas of IoT projects, So this project can be splitted to different small scale projects, Enjoy MARWIN by Motify.in
