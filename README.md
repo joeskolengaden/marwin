@@ -1,5 +1,5 @@
 # MARWIN
-An Open Source Rapid Deployable DIY MARS Rover
+An Open Source Rapid Deployable DIY MARS Rover developed by Motify
 
 ## Primary Aim
 To develop an opensource space rover by utilizing all posiible opensoure materals & resourses and also make the rover flexible  deployable for multiple purposes including research, resuce, military and defence purposes.
